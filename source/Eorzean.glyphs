@@ -1,6 +1,9 @@
 {
-.appVersion = "3151";
+.appVersion = "3260";
 .formatVersion = 3;
+DisplayStrings = (
+"/six.osf"
+);
 classes = (
 {
 automatic = 1;
@@ -208,7 +211,7 @@ pos = (289,495);
 }
 );
 backgroundImage = {
-imagePath = images/alphabet_03_A.png;
+imagePath = "images/alphabet_03_A.png";
 locked = 1;
 pos = (-114,-307);
 scale = (9.8044,9.8044);
@@ -441,7 +444,7 @@ lastChange = "2023-10-21 09:17:32 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_04_B.png;
+imagePath = "images/alphabet_04_B.png";
 locked = 1;
 pos = (-43,-284);
 scale = (9.8,9.8);
@@ -523,7 +526,7 @@ pos = (471,0);
 }
 );
 backgroundImage = {
-imagePath = images/alphabet_05_C.png;
+imagePath = "images/alphabet_05_C.png";
 locked = 1;
 pos = (-88,-326);
 scale = (9.8,9.8);
@@ -598,7 +601,7 @@ lastChange = "2023-10-21 07:19:43 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_06_D.png;
+imagePath = "images/alphabet_06_D.png";
 locked = 1;
 pos = (-64,-299);
 scale = (9.8,9.8);
@@ -671,7 +674,7 @@ pos = (309,489);
 }
 );
 backgroundImage = {
-imagePath = images/alphabet_07_E.png;
+imagePath = "images/alphabet_07_E.png";
 locked = 1;
 pos = (-73,-279);
 scale = (9.9826,9.9826);
@@ -850,7 +853,7 @@ lastChange = "2023-10-21 09:13:00 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_08_F.png;
+imagePath = "images/alphabet_08_F.png";
 locked = 1;
 pos = (-80,-289);
 scale = (9.8,9.8);
@@ -909,7 +912,7 @@ lastChange = "2023-10-21 09:02:44 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_09_G.png;
+imagePath = "images/alphabet_09_G.png";
 locked = 1;
 pos = (-32,-296);
 scale = (9.8,9.8);
@@ -942,7 +945,7 @@ lastChange = "2023-10-21 07:29:51 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_10_H.png;
+imagePath = "images/alphabet_10_H.png";
 locked = 1;
 pos = (-89,-301);
 scale = (9.8,9.8);
@@ -1027,7 +1030,7 @@ pos = (106,489);
 }
 );
 backgroundImage = {
-imagePath = images/alphabet_11_I.png;
+imagePath = "images/alphabet_11_I.png";
 locked = 1;
 pos = (-231,-294);
 scale = (9.8,9.8);
@@ -1153,7 +1156,7 @@ pos = (106,489);
 }
 );
 backgroundImage = {
-imagePath = images/alphabet_12_J.png;
+imagePath = "images/alphabet_12_J.png";
 locked = 1;
 pos = (-148,-295);
 scale = (9.8,9.8);
@@ -1237,7 +1240,7 @@ lastChange = "2023-10-22 23:50:35 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_13_K.png;
+imagePath = "images/alphabet_13_K.png";
 locked = 1;
 pos = (-129,-290);
 scale = (9.8,9.8);
@@ -1326,7 +1329,7 @@ lastChange = "2024-01-23 10:24:10 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_14_L.png;
+imagePath = "images/alphabet_14_L.png";
 locked = 1;
 pos = (-96,-320);
 scale = (9.8,9.8);
@@ -1380,7 +1383,7 @@ lastChange = "2023-10-24 00:53:44 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_15_M.png;
+imagePath = "images/alphabet_15_M.png";
 locked = 1;
 pos = (-29,-290);
 scale = (9.8,9.8);
@@ -1479,7 +1482,7 @@ width = 798;
 {
 associatedMasterId = m01;
 backgroundImage = {
-imagePath = images/alphabet_15_M.png;
+imagePath = "images/alphabet_15_M.png";
 locked = 1;
 pos = (-29,-290);
 scale = (9.8,9.8);
@@ -1599,7 +1602,7 @@ pos = (272,501);
 }
 );
 backgroundImage = {
-imagePath = images/alphabet_18_N.png;
+imagePath = "images/alphabet_18_N.png";
 locked = 1;
 pos = (-95,-276);
 scale = (9.8,9.8);
@@ -1701,7 +1704,7 @@ pos = (283,499);
 }
 );
 backgroundImage = {
-imagePath = images/alphabet_19_O.png;
+imagePath = "images/alphabet_19_O.png";
 locked = 1;
 pos = (-30,-262);
 scale = (9.8,9.8);
@@ -1896,7 +1899,7 @@ lastChange = "2023-10-21 09:04:01 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_20_P.png;
+imagePath = "images/alphabet_20_P.png";
 locked = 1;
 pos = (-35,-257);
 scale = (9.8,9.8);
@@ -1987,7 +1990,7 @@ lastChange = "2023-10-21 09:18:04 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_21_Q.png;
+imagePath = "images/alphabet_21_Q.png";
 locked = 1;
 pos = (-133,-256);
 scale = (9.8,9.8);
@@ -2068,32 +2071,17 @@ unicode = 81;
 glyphname = R;
 kernLeft = H;
 kernRight = R;
-lastChange = "2023-10-21 09:13:23 +0000";
+lastChange = "2024-05-16 01:56:44 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_22_R.png;
+imagePath = "images/alphabet_22_R.png";
 locked = 1;
 pos = (-108,-252);
 scale = (9.8,9.8);
 };
 layerId = m01;
 shapes = (
-{
-closed = 1;
-nodes = (
-(337,-35,o),
-(489,48,o),
-(522,75,cs),
-(534,84,o),
-(534,92,o),
-(501,73,cs),
-(468,54,o),
-(392,16,o),
-(319,16,c),
-(295,-35,l)
-);
-},
 {
 alignment = -1;
 pos = (-3,0);
@@ -2137,9 +2125,24 @@ nodes = (
 (382,268,l),
 (295,263,l)
 );
+},
+{
+closed = 1;
+nodes = (
+(337,-35,o),
+(482,30,o),
+(511,63,cs),
+(517,70,o),
+(517,74,o),
+(506,70,cs),
+(463,56,o),
+(367,16,o),
+(319,16,c),
+(295,-35,l)
+);
 }
 );
-width = 559;
+width = 545;
 }
 );
 metricLeft = A;
@@ -2154,7 +2157,7 @@ lastChange = "2023-10-21 09:03:11 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_23_S.png;
+imagePath = "images/alphabet_23_S.png";
 locked = 1;
 pos = (-96,-260);
 scale = (9.8,9.8);
@@ -2307,7 +2310,7 @@ lastChange = "2023-10-21 09:18:13 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_24_T.png;
+imagePath = "images/alphabet_24_T.png";
 locked = 1;
 pos = (-107,-270);
 scale = (9.8,9.8);
@@ -2366,7 +2369,7 @@ pos = (302,499);
 }
 );
 backgroundImage = {
-imagePath = images/alphabet_25_U.png;
+imagePath = "images/alphabet_25_U.png";
 locked = 1;
 pos = (-52,-263);
 scale = (9.8,9.8);
@@ -2547,7 +2550,7 @@ lastChange = "2023-10-21 05:48:45 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_26_V.png;
+imagePath = "images/alphabet_26_V.png";
 locked = 1;
 pos = (-50,-266);
 scale = (9.8,9.8);
@@ -2622,7 +2625,7 @@ pos = (379,499);
 }
 );
 backgroundImage = {
-imagePath = images/alphabet_27_W.png;
+imagePath = "images/alphabet_27_W.png";
 locked = 1;
 pos = (-3,-266);
 scale = (9.8,9.8);
@@ -2821,7 +2824,7 @@ lastChange = "2023-10-21 09:18:26 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_28_X.png;
+imagePath = "images/alphabet_28_X.png";
 locked = 1;
 pos = (13,-277);
 scale = (9.8,9.8);
@@ -2926,7 +2929,7 @@ pos = (283,499);
 }
 );
 backgroundImage = {
-imagePath = images/alphabet_29_Y.png;
+imagePath = "images/alphabet_29_Y.png";
 locked = 1;
 pos = (-82,-299);
 scale = (9.8,9.8);
@@ -3096,7 +3099,7 @@ lastChange = "2023-10-21 09:16:17 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = images/alphabet_30_Z.png;
+imagePath = "images/alphabet_30_Z.png";
 locked = 1;
 pos = (-9,-301);
 scale = (9.8,9.8);
@@ -3977,7 +3980,7 @@ unicode = 230;
 glyphname = b;
 kernLeft = b;
 kernRight = o;
-lastChange = "2023-10-21 09:35:51 +0000";
+lastChange = "2024-05-15 23:16:39 +0000";
 layers = (
 {
 backgroundImage = {
@@ -4005,12 +4008,12 @@ nodes = (
 (104,-16,o),
 (174,-16,cs),
 (287,-16,o),
-(400,53,o),
+(378,44,o),
 (425,89,cs),
-(433,100,o),
+(435,98,o),
 (431,106,o),
 (420,99,cs),
-(350,53,o),
+(359,59,o),
 (307,29,o),
 (238,29,cs),
 (144,29,o),
@@ -5620,7 +5623,7 @@ unicode = 112;
 glyphname = q;
 kernLeft = q;
 kernRight = i;
-lastChange = "2023-10-21 09:36:23 +0000";
+lastChange = "2024-05-15 23:27:28 +0000";
 layers = (
 {
 backgroundImage = {
@@ -5695,7 +5698,7 @@ ref = _smart.verticalBar_noStart.noSerif;
 {
 closed = 1;
 nodes = (
-(136,52,l),
+(136,56,l),
 (136,17,ls),
 (136,-56,o),
 (76,-157,o),
@@ -7644,7 +7647,7 @@ lastChange = "2023-10-23 00:12:34 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_12_0.png;
+imagePath = "numbers/Celes_12_0.png";
 locked = 1;
 pos = (-157,-216);
 scale = (20,20);
@@ -7676,7 +7679,7 @@ lastChange = "2023-10-23 02:27:31 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_03_1.png;
+imagePath = "numbers/Celes_03_1.png";
 pos = (-197,-321);
 scale = (23.362,23.362);
 };
@@ -7751,7 +7754,7 @@ lastChange = "2023-10-23 01:22:43 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_04_2.png;
+imagePath = "numbers/Celes_04_2.png";
 pos = (-224,-323);
 scale = (23.362,23.362);
 };
@@ -7780,7 +7783,7 @@ lastChange = "2023-10-23 01:20:45 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_05_3.png;
+imagePath = "numbers/Celes_05_3.png";
 pos = (-206,-320);
 scale = (23.362,23.362);
 };
@@ -7811,7 +7814,7 @@ lastChange = "2023-10-23 03:05:29 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_06_4.png;
+imagePath = "numbers/Celes_06_4.png";
 locked = 1;
 pos = (-137,-220);
 scale = (19.9849,19.9849);
@@ -7821,7 +7824,7 @@ shapes = (
 {
 alignment = -1;
 piece = {
-length = 140.43856;
+length = 140.43855;
 rightSerif = 100;
 };
 pos = (-172,-250);
@@ -7881,7 +7884,7 @@ lastChange = "2023-10-24 01:14:59 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_07_5.png;
+imagePath = "numbers/Celes_07_5.png";
 locked = 1;
 pos = (-156,-296);
 scale = (22.049,22.049);
@@ -7973,11 +7976,11 @@ unicode = 53;
 {
 glyphname = six;
 kernRight = x;
-lastChange = "2023-10-24 00:57:17 +0000";
+lastChange = "2024-05-16 02:38:29 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_08_6.png;
+imagePath = "numbers/Celes_08_6.png";
 locked = 1;
 pos = (-159,-226);
 scale = (19.6691,19.6691);
@@ -7988,7 +7991,7 @@ shapes = (
 alignment = -1;
 piece = {
 leftSerif = 100;
-length = 140.43856;
+length = 140.43855;
 rightSerif = 0;
 };
 pos = (-202,-250);
@@ -8007,12 +8010,12 @@ nodes = (
 (347,456,o),
 (309,398,cs),
 (30,-34,l),
-(68,-34,l),
-(325,364,ls),
-(347,398,o),
-(361,404,o),
-(376,404,cs),
-(397,404,o),
+(78,-34,l),
+(335,364,ls),
+(357,398,o),
+(371,404,o),
+(386,404,cs),
+(407,404,o),
 (430,395,o),
 (452,360,cs),
 (485,308,o),
@@ -8036,7 +8039,7 @@ lastChange = "2024-01-24 03:40:18 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_09_7.png;
+imagePath = "numbers/Celes_09_7.png";
 locked = 1;
 pos = (-177,-257);
 scale = (20.9896,20.9896);
@@ -8114,7 +8117,7 @@ lastChange = "2024-01-24 03:40:18 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_10_8.png;
+imagePath = "numbers/Celes_10_8.png";
 locked = 1;
 pos = (-159,-245);
 scale = (20.8184,20.8184);
@@ -8197,7 +8200,7 @@ lastChange = "2024-01-24 03:40:10 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_11_9.png;
+imagePath = "numbers/Celes_11_9.png";
 pos = (-157,-243);
 scale = (20.2696,20.2696);
 };
@@ -8224,7 +8227,7 @@ lastChange = "2023-10-23 00:12:49 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_12_0.png;
+imagePath = "numbers/Celes_12_0.png";
 pos = (-103,-145);
 scale = (14.4,14.4);
 };
@@ -8253,7 +8256,7 @@ lastChange = "2023-10-24 01:02:29 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_03_1.png;
+imagePath = "numbers/Celes_03_1.png";
 pos = (-164,-350);
 scale = (20.0696,20.0696);
 };
@@ -8326,7 +8329,7 @@ lastChange = "2023-10-23 01:20:59 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_04_2.png;
+imagePath = "numbers/Celes_04_2.png";
 pos = (-188,-342);
 scale = (20.0696,20.0696);
 };
@@ -8354,7 +8357,7 @@ lastChange = "2023-10-23 01:21:03 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_05_3.png;
+imagePath = "numbers/Celes_05_3.png";
 pos = (-174,-337);
 scale = (20.0696,20.0696);
 };
@@ -8386,7 +8389,7 @@ lastChange = "2023-10-23 03:05:01 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_06_4.png;
+imagePath = "numbers/Celes_06_4.png";
 locked = 1;
 pos = (-83,-174);
 scale = (15.2047,15.2047);
@@ -8451,11 +8454,11 @@ width = 490;
 glyphname = five.osf;
 kernLeft = x;
 kernRight = g;
-lastChange = "2023-10-24 01:14:10 +0000";
+lastChange = "2024-05-16 02:38:36 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_07_5.png;
+imagePath = "numbers/Celes_07_5.png";
 locked = 1;
 pos = (-141,-330);
 scale = (19.5408,19.5408);
@@ -8482,8 +8485,8 @@ nodes = (
 (139,-83,o),
 (146,-51,cs),
 (164,29,o),
-(261,84,o),
-(375,145,c)
+(261,74,o),
+(375,135,c)
 );
 },
 {
@@ -8547,11 +8550,11 @@ metricRight = g;
 {
 glyphname = six.osf;
 kernRight = x;
-lastChange = "2023-10-24 00:57:39 +0000";
+lastChange = "2024-05-16 02:38:44 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_08_6.png;
+imagePath = "numbers/Celes_08_6.png";
 locked = 1;
 pos = (-118,-193);
 scale = (15.972,15.972);
@@ -8568,12 +8571,12 @@ nodes = (
 (283,342,o),
 (243,281,cs),
 (31,-47,l),
-(69,-47,l),
-(263,254,ls),
-(297,307,o),
-(308,316,o),
-(330,316,cs),
-(394,316,o),
+(79,-47,l),
+(273,254,ls),
+(307,307,o),
+(318,316,o),
+(340,316,cs),
+(404,316,o),
 (405,215,o),
 (366,158,cs),
 (359,148,o),
@@ -8603,7 +8606,7 @@ lastChange = "2024-01-24 03:40:26 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_09_7.png;
+imagePath = "numbers/Celes_09_7.png";
 pos = (-147,-371);
 scale = (19.6277,19.6277);
 };
@@ -8685,7 +8688,7 @@ lastChange = "2024-01-24 03:40:26 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_10_8.png;
+imagePath = "numbers/Celes_10_8.png";
 locked = 1;
 pos = (-125,-360);
 scale = (19.6277,19.6277);
@@ -8760,7 +8763,7 @@ lastChange = "2024-01-24 03:40:26 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = numbers/Celes_11_9.png;
+imagePath = "numbers/Celes_11_9.png";
 locked = 1;
 pos = (-146,-356);
 scale = (19.6277,19.6277);
@@ -9474,7 +9477,7 @@ shapes = (
 {
 alignment = -1;
 piece = {
-length = 188.01838;
+length = 188.01839;
 };
 pos = (-203,-41);
 ref = _smart.horizontalBar;
@@ -11187,7 +11190,7 @@ type = Corner;
 }
 );
 layerId = "3EA63135-51EB-4FFE-AA27-3A5B588D36C6";
-name = "0leftSerif";
+name = 0leftSerif;
 partSelection = {
 leftSerif = 2;
 };
@@ -11226,7 +11229,7 @@ type = Corner;
 }
 );
 layerId = "4976EE3D-E121-414B-BBC7-7B7DA527A094";
-name = "0rightSerif";
+name = 0rightSerif;
 partSelection = {
 rightSerif = 2;
 };
@@ -12788,62 +12791,6 @@ m?
 - Metrics adjustment";
 properties = (
 {
-key = familyNames;
-values = (
-{
-language = ZHS;
-value = "改良型新式艾欧泽亚文字";
-},
-{
-language = JPN;
-value = "ネオエオルゼア・アルファベットＲＥ";
-},
-{
-language = ENG;
-value = "Augmented Neo-Eorzean";
-},
-{
-language = dflt;
-value = "Augmented Neo-Eorzean";
-}
-);
-},
-{
-key = designers;
-values = (
-{
-language = dflt;
-value = catloaf;
-},
-{
-language = ZHS;
-value = "猫面包";
-}
-);
-},
-{
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = catloaf;
-},
-{
-language = ZHS;
-value = "猫面包";
-}
-);
-},
-{
-key = sampleTexts;
-values = (
-{
-language = dflt;
-value = "To all of my children in whom Life flows abundant, To all of my children to whom Death hath passed his judgement.";
-}
-);
-},
-{
 key = copyrights;
 values = (
 {
@@ -12882,8 +12829,38 @@ value = "改良型新式艾欧泽亚文字进行了再设计，增加了更多�
 );
 },
 {
-key = manufacturerURL;
-value = "https://linktr.ee/catloaf97";
+key = designers;
+values = (
+{
+language = dflt;
+value = catloaf;
+},
+{
+language = ZHS;
+value = "猫面包";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = ZHS;
+value = "改良型新式艾欧泽亚文字";
+},
+{
+language = JPN;
+value = "ネオエオルゼア・アルファベットＲＥ";
+},
+{
+language = ENG;
+value = "Augmented Neo-Eorzean";
+},
+{
+language = dflt;
+value = "Augmented Neo-Eorzean";
+}
+);
 },
 {
 key = licenses;
@@ -12911,6 +12888,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = catloaf;
+},
+{
+language = ZHS;
+value = "猫面包";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://linktr.ee/catloaf97";
+},
+{
+key = sampleTexts;
+values = (
+{
+language = dflt;
+value = "To all of my children in whom Life flows abundant, To all of my children to whom Death hath passed his judgement.";
 }
 );
 }
