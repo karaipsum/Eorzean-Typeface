@@ -30,17 +30,17 @@
 
 以下是当前支持的 Opentype 特性。设计上非常主观诠释，官方的材料中目前个人并没有看到类似的设计。所以以下特性均默认**关闭**，可以自行开启玩玩看。
 
-### 连字 (dlig)
+### 连字 `dlig`
 
 ![dlig](preview/Ligature.svg)
 > _The Fist of the **Fa**ther_
 
-### 花体字 (swsh)
+### 花体字 `swsh`
 
 ![swsh](preview/Swash.svg)
 > _Cent**ra**l Thanalan The Aethe**rf**ont_
 
-### 变高数字 (onum)
+### 变高数字 `onum`
 
 ![onum](preview/OSF.svg)
 > _The Holocharts - **6329** Yalms_

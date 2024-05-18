@@ -30,17 +30,17 @@ Manually adjusted kerning pairs for improved readability. Toggle "Metrics" setti
 
 Below are currently supported Opentype features. They are based on my personal idea and interpretation, which I haven't noticed in official arkworks so far. They are **off** by default. You may turn it on for fun.
 
-### Discretionary Ligature (dlig)
+### Discretionary Ligature `dlig`
 
 ![dlig](preview/Ligature.svg)
 > _The Fist of the **Fa**ther_
 
-### Swash (swsh)
+### Swash `swsh`
 
 ![swsh](preview/Swash.svg)
 > _Cent**ra**l Thanalan The Aethe**rf**ont_
 
-### Old-style Figures (onum)
+### Old-style Figures `onum`
 
 ![onum](preview/OSF.svg)
 > _The Holocharts - **6329** Yalms_
