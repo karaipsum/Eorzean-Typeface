@@ -1,9 +1,6 @@
 {
 .appVersion = "3260";
 .formatVersion = 3;
-DisplayStrings = (
-"/six.osf"
-);
 classes = (
 {
 automatic = 1;
@@ -7880,15 +7877,9 @@ unicode = 52;
 glyphname = five;
 kernLeft = X;
 kernRight = G;
-lastChange = "2023-10-24 01:14:59 +0000";
+lastChange = "2024-05-18 18:30:26 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "numbers/Celes_07_5.png";
-locked = 1;
-pos = (-156,-296);
-scale = (22.049,22.049);
-};
 layerId = m01;
 shapes = (
 {
@@ -12788,7 +12779,10 @@ m?
 2024-01-23 1.002
 - Added diacritics glyphs -> more language support 🇫🇷, 🇩🇪, etc.
 - Added more punctuations and symbols
-- Metrics adjustment";
+- Metrics adjustment
+
+2024-05-18 1.003
+- Minor update together with proto-alphabets";
 properties = (
 {
 key = copyrights;
@@ -12930,5 +12924,5 @@ HV = "87";
 };
 };
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
