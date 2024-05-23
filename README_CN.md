@@ -19,6 +19,12 @@
 - 常用标点与符号
 - 以及……？
 
+## Windows 兼容性
+
+参见 [Issue](https://github.com/karaipsum/Postulated-Proto-Alphabet/issues/1#issue-2312178558)
+
+太长不看：如果在 Windows 下无法打开或安装字体，请使用前缀有 [W] 的字体文件。
+
 ## 字偶间距预览
 
 ![字偶间距](preview/Kerning.svg)
