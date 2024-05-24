@@ -6521,13 +6521,13 @@ unicode = 104;
 glyphname = i;
 kernLeft = i;
 kernRight = i;
-lastChange = "2024-05-24 04:37:24 +0000";
+lastChange = "2024-05-24 07:27:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = ogonek;
-pos = (145,-90);
+pos = (153,-5);
 },
 {
 name = top;
@@ -6544,7 +6544,7 @@ shapes = (
 {
 alignment = -1;
 piece = {
-height_l = 57.48427;
+height_l = 43.81046;
 };
 pos = (-3,-141);
 ref = _smart.verticalBar;
@@ -6716,7 +6716,7 @@ unicode = 299;
 glyphname = iogonek;
 kernLeft = i;
 kernRight = i;
-lastChange = "2024-05-24 04:48:48 +0000";
+lastChange = "2024-05-24 07:27:33 +0000";
 layers = (
 {
 layerId = m01;
@@ -6725,7 +6725,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (-287,-90);
+pos = (-279,-5);
 ref = ogonekcomb;
 }
 );
@@ -7366,7 +7366,7 @@ unicode = 109;
 glyphname = n;
 kernLeft = i;
 kernRight = n;
-lastChange = "2024-05-24 04:38:47 +0000";
+lastChange = "2024-05-24 07:25:44 +0000";
 layers = (
 {
 anchors = (
@@ -7423,7 +7423,7 @@ nodes = (
 {
 alignment = -1;
 piece = {
-height_l = 59.81829;
+height_l = 44.19048;
 };
 pos = (-3,-139);
 ref = _smart.verticalBar;
@@ -8059,7 +8059,7 @@ unicode = 113;
 glyphname = r;
 kernLeft = i;
 kernRight = r;
-lastChange = "2024-05-24 04:39:27 +0000";
+lastChange = "2024-05-24 07:25:56 +0000";
 layers = (
 {
 anchors = (
@@ -8083,7 +8083,7 @@ shapes = (
 {
 alignment = -1;
 piece = {
-height_l = 58.71945;
+height_l = 44.63378;
 };
 pos = (-3,-136);
 ref = _smart.verticalBar;
