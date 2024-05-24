@@ -1924,7 +1924,7 @@ width = 583;
 glyphname = K;
 kernLeft = H;
 kernRight = K;
-lastChange = "2024-05-24 04:30:19 +0000";
+lastChange = "2024-05-24 08:18:00 +0000";
 layers = (
 {
 anchors = (
@@ -1972,7 +1972,7 @@ nodes = (
 {
 alignment = -1;
 piece = {
-height_l = 41.77185;
+height_l = 28.04313;
 };
 pos = (-3,-6);
 ref = _smart.verticalBar;
@@ -5599,7 +5599,7 @@ unicode = 98;
 glyphname = c;
 kernLeft = b;
 kernRight = i;
-lastChange = "2024-05-24 04:34:52 +0000";
+lastChange = "2024-05-24 08:19:36 +0000";
 layers = (
 {
 anchors = (
@@ -6253,7 +6253,7 @@ unicode = 7869;
 glyphname = f;
 kernLeft = f;
 kernRight = f;
-lastChange = "2023-10-21 09:32:44 +0000";
+lastChange = "2024-05-24 08:11:04 +0000";
 layers = (
 {
 backgroundImage = {
@@ -6296,7 +6296,7 @@ nodes = (
 {
 piece = {
 flatEnd = 0;
-length = 50;
+length = 41.27219;
 };
 pos = (26,-113);
 ref = _smart.verticalBar_noStart;
@@ -6443,7 +6443,7 @@ unicode = 7713;
 glyphname = h;
 kernLeft = h;
 kernRight = k;
-lastChange = "2023-10-23 03:31:31 +0000";
+lastChange = "2024-05-24 08:13:17 +0000";
 layers = (
 {
 backgroundImage = {
@@ -6521,13 +6521,13 @@ unicode = 104;
 glyphname = i;
 kernLeft = i;
 kernRight = i;
-lastChange = "2024-05-24 07:27:33 +0000";
+lastChange = "2024-05-24 08:16:57 +0000";
 layers = (
 {
 anchors = (
 {
 name = ogonek;
-pos = (153,-5);
+pos = (153,26);
 },
 {
 name = top;
@@ -6544,7 +6544,7 @@ shapes = (
 {
 alignment = -1;
 piece = {
-height_l = 43.81046;
+height_l = 38.48921;
 };
 pos = (-3,-141);
 ref = _smart.verticalBar;
@@ -6716,7 +6716,7 @@ unicode = 299;
 glyphname = iogonek;
 kernLeft = i;
 kernRight = i;
-lastChange = "2024-05-24 07:27:33 +0000";
+lastChange = "2024-05-24 08:16:57 +0000";
 layers = (
 {
 layerId = m01;
@@ -6725,7 +6725,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (-279,-5);
+pos = (-279,26);
 ref = ogonekcomb;
 }
 );
@@ -6892,13 +6892,17 @@ width = 504;
 glyphname = k;
 kernLeft = i;
 kernRight = k;
-lastChange = "2024-05-24 04:37:59 +0000";
+lastChange = "2024-05-24 08:18:32 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (265,-124);
+},
+{
+name = "new anchor";
+pos = (179,111);
 }
 );
 backgroundImage = {
@@ -6940,7 +6944,7 @@ nodes = (
 {
 alignment = -1;
 piece = {
-height_l = 39.13525;
+height_l = 26.17534;
 };
 pos = (-3,-137);
 ref = _smart.verticalBar;
@@ -7366,7 +7370,7 @@ unicode = 109;
 glyphname = n;
 kernLeft = i;
 kernRight = n;
-lastChange = "2024-05-24 07:25:44 +0000";
+lastChange = "2024-05-24 08:15:36 +0000";
 layers = (
 {
 anchors = (
@@ -7423,7 +7427,7 @@ nodes = (
 {
 alignment = -1;
 piece = {
-height_l = 44.19048;
+height_l = 40.07186;
 };
 pos = (-3,-139);
 ref = _smart.verticalBar;
@@ -7958,9 +7962,15 @@ unicode = 112;
 glyphname = q;
 kernLeft = q;
 kernRight = i;
-lastChange = "2024-05-15 23:27:28 +0000";
+lastChange = "2024-05-24 08:19:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = "new anchor";
+pos = (408,28);
+}
+);
 backgroundImage = {
 imagePath = "images/alphabet_50-q.png";
 locked = 1;
@@ -8059,7 +8069,7 @@ unicode = 113;
 glyphname = r;
 kernLeft = i;
 kernRight = r;
-lastChange = "2024-05-24 07:25:56 +0000";
+lastChange = "2024-05-24 08:13:57 +0000";
 layers = (
 {
 anchors = (
@@ -8083,7 +8093,7 @@ shapes = (
 {
 alignment = -1;
 piece = {
-height_l = 44.63378;
+height_l = 39.3345;
 };
 pos = (-3,-136);
 ref = _smart.verticalBar;
@@ -8216,7 +8226,7 @@ unicode = 343;
 glyphname = s;
 kernLeft = f;
 kernRight = o;
-lastChange = "2024-05-24 04:49:33 +0000";
+lastChange = "2024-05-24 08:14:25 +0000";
 layers = (
 {
 anchors = (
@@ -8271,6 +8281,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(351,236,o),
 (353,238,o),
 (359,248,cs),
 (370,263,o),
@@ -8293,8 +8304,7 @@ nodes = (
 (216,325,cs),
 (289,325,o),
 (323,278,o),
-(346,245,cs),
-(351,236,o)
+(346,245,cs)
 );
 },
 {
