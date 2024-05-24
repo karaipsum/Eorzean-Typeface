@@ -75,7 +75,7 @@
 
 ## 参考与来源
 
-- 艾欧泽亚字母表 [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/giPAn) | [《艾欧泽亚百科全书II》](https://www.taobao.com/list/item/635215701689.htm)
+- 艾欧泽亚字母表 [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/giPAn) p.35 | [《艾欧泽亚百科全书II》](https://www.taobao.com/list/item/635215701689.htm) p.35
 - [Celes](https://club.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E9%A9%BE%E9%A9%B6%E5%AE%A4#/user/45979/main)（[@时与悠可](https://weibo.com/u/3506214112)）老师制作的[英文/艾欧泽亚文字/“被预测为”古代文字的字符对照表](https://weibo.com/3506214112/NkPbor2Iz)
 
 ## 授权
@@ -90,7 +90,6 @@
 - [改良型东方文字](https://github.com/karaipsum/Kugane-Moji)
 - [改良型古代文字](https://github.com/karaipsum/Postulated-Proto-Alphabet)
 - [改良型诺弗兰特文字](https://github.com/karaipsum/Norvrandt-Typeface)
-
 
 ## 尾声
 

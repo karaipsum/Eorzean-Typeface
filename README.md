@@ -77,7 +77,7 @@ When switching to all caps form, certain punctuation marks, will switch to an al
 
 ## Source
 
-- Eorzean alphabet from [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/giPAn)
+- Eorzean alphabet from [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/giPAn) p.35
 - [Glyph reference table](https://weibo.com/3506214112/NkPbor2Iz) by [Celes](https://club.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E9%A9%BE%E9%A9%B6%E5%AE%A4#/user/45979/main)（[@时与悠可](https://weibo.com/u/3506214112)）
 
 ## License
