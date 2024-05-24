@@ -28,34 +28,56 @@ TL;DR: If you couldn't open or install the font, please use the files with a pre
 ## Kerning Preview
 
 ![Kerning](preview/Kerning.svg)
-> _Containment Bay S1T7_
+
+> _To all of my children in whom Life flows abundant_
+>
+> Excerpt from lyrics of [_Answers_](https://na.finalfantasyxiv.com/blog/003219.html)
 
 Manually adjusted kerning pairs for improved readability. Toggle "Metrics" setting in your preferred design software to apply.
 
-## Opentype Features Support (default off)
+## Opentype Features Support
 
-Below are currently supported Opentype features. They are based on my personal idea and interpretation, which I haven't noticed in official arkworks so far. They are **off** by default. You may turn it on for fun.
+Below are currently supported Opentype features. They are based on my personal idea and interpretation, which I haven't noticed in official arkworks so far. They are mostly **off** by default. You may turn it on for fun.
+
+### Case-Sensitive Forms `case` (default **on**)
+
+![case](preview/case.svg)
+
+> Containment Bay S**1**T**7** **(** Extreme **)**
+
+When switching to all caps form, certain punctuation marks, will switch to an alternate form. In this case, they will shift upwards to fit in the lines.
 
 ### Discretionary Ligature `dlig`
 
 ![dlig](preview/Ligature.svg)
+
 > _The Fist of the **Fa**ther_
 
 ### Swash `swsh`
 
 ![swsh](preview/Swash.svg)
+
 > _Cent**ra**l Thanalan The Aethe**rf**ont_
 
-### Old-style Figures `onum`
+### Figures `onum`, `tnum`
 
-![onum](preview/OSF.svg)
-> _The Holocharts - **6329** Yalms_
+![Figures](preview/Figures.svg)
+
+> $_**5,789,130,976**_
 >
-> _**0123456789**_
+> default / oldstyle `onum`
+>
+> tabular `tnum` / tabular oldstyle
+
+### Stylistic Alternates `salt`
+
+![salt](preview/salt.svg)
+
+> « @ * & »
 
 ## Source
 
-- Eorzean alphabet from [_Encyclopaedia Eorzea II_](https://sqex.to/giPAn)
+- Eorzean alphabet from [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/giPAn)
 - [Glyph reference table](https://weibo.com/3506214112/NkPbor2Iz) by [Celes](https://club.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E9%A9%BE%E9%A9%B6%E5%AE%A4#/user/45979/main)（[@时与悠可](https://weibo.com/u/3506214112)）
 
 ## License
@@ -64,7 +86,13 @@ All company, product, and system names mentioned herein are trademarks or regist
 
 Augmented Neo-Eorzean is licensed under the [MIT](LICENSE) License.
 
+## Project
+
+- [Augmented Neo-Eorzean](https://github.com/karaipsum/Eorzean-Typeface)
+- [Augmented Far Eastern Script](https://github.com/karaipsum/Kugane-Moji)
+- [Augmented Postulated Proto-Alphabet](https://github.com/karaipsum/Postulated-Proto-Alphabet)
+- [Augmented Norvrandt](https://github.com/karaipsum/Norvrandt-Typeface)
+
 ## Footnote
-Future plan of this project may include different styles (sans-serif, maybe?) or different language (Will we get Norvrandt/[Etheirys alphabets](https://github.com/karaipsum/Postulated-Proto-Alphabet) in _Encyclopaedia Eorzea III_?)
 
 Feel free to post suggestions and/or any issues here.
