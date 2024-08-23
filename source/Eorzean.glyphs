@@ -23849,6 +23849,10 @@ key = manufacturerURL;
 value = "https://linktr.ee/catloaf97";
 },
 {
+key = postscriptFontName;
+value = "ANeoEorzean-Rg";
+},
+{
 key = sampleTexts;
 values = (
 {
@@ -23856,6 +23860,10 @@ language = dflt;
 value = "To all of my children in whom Life flows abundant, To all of my children to whom Death hath passed his judgement.";
 }
 );
+},
+{
+key = vendorID;
+value = CTLF;
 }
 );
 settings = {
@@ -23879,5 +23887,5 @@ HV = "87";
 };
 };
 versionMajor = 1;
-versionMinor = 50;
+versionMinor = 51;
 }
